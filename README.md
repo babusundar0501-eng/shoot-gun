@@ -1,10 +1,12 @@
-# Saltline — Fable 5.2 FPS
+# SHOOT GUN
+
+A browser-based first-person shooter set in a rainy container port. Cut three uplink relays while drones ("Gulls") and robot dogs ("Hounds") hunt you.
 
 A small browser first-person shooter: one level in a rainy container port. Cut three uplink relays while drones ("Gulls") and robot dogs ("Hounds") hunt you.
 <img width="1685" height="906" alt="image" src="https://github.com/user-attachments/assets/8dd32149-90f4-4d69-a573-4411a49a9ba9" />
 
 
-## Demo
+## Original game reference
 https://realcodebear.github.io/saltline-fable-5.2/
 
 ## Where it comes from
@@ -16,9 +18,13 @@ https://realcodebear.github.io/saltline-fable-5.2/
 
 All credit for the game goes to its original author. This repo is a mirror so people can run it locally. If you are the author and want it taken down, open an issue.
 
-## What changed from the artifact
+## SHOOT GUN changes
 
-Nothing in the game code. The claude.ai frame-runtime scripts were removed from `<head>`, and a doctype, charset and viewport tag were added so the file runs as a plain web page.
+The game itself is preserved. The page title, loading screen, title screen, debrief text, in-game terminal labels, and diagnostic labels have been rebranded to **SHOOT GUN**. An obsolete Claude-specific viewport meta tag was removed. Gameplay systems, level design, models, rendering, controls, and bundled Three.js code were not intentionally changed.
+
+## Original attribution
+
+This is a rebranded personal modification of the public Saltline game. The original game was built with Claude Fable 5.2; credit for the original game design and implementation belongs to its original author. See the links above for the original post and artifact.
 
 ## Run it
 
