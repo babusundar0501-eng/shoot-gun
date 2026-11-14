@@ -2,7 +2,6 @@
 
 A browser-based first-person shooter set in a rainy container port. Cut three uplink relays while drones ("Gulls") and robot dogs ("Hounds") hunt you.
 
-<img width="1685" height="906" alt="SHOOT GUN gameplay" src="https://github.com/user-attachments/assets/8dd32149-90f4-4d69-a573-4411a49a9ba9" />
 
 ## Run it
 
